@@ -1,0 +1,3 @@
+﻿  menu.cpp
+C:\Main\UniYear2\CPLUS\assignment\marina_booking_system\marina_booking_system\menu.cpp(50): warning C4715: 'menu': not all control paths return a value
+  marina_booking_system.vcxproj -> C:\Main\UniYear2\CPLUS\assignment\marina_booking_system\Debug\marina_booking_system.exe
