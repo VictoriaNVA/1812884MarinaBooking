@@ -7,9 +7,9 @@ This project was my first exposure to C++ and it was challenging but also really
 ## Running Instructions
 #### The Console application is pretty intuitive but detailed instructions of how the app works can be found below.
 
-1.Upon running the application, MAIN MENU is displayed.
+1. Upon running the application, MAIN MENU is displayed.
 2. To navigate through the menu, type the figure associated to the menu option. (E.g. If you want to record a new booking, type 1 and ENTER)
-3. 3. When recording a new booking, you must provide the length and draft sizes of the boat, in meters. The application will check the numbers to see if they meet the marina criteria. If the size is alright, you will be prompted to provide how long you want the berth space for, in months. Based on your answer, the system will provide a price quote. You must accept or reject the price quote by typing Y for yes or N for no. You do not necessarily have to type the letter in capital, as the system was built to recognize them in lowercase too.
+3. When recording a new booking, you must provide the length and draft sizes of the boat, in meters. The application will check the numbers to see if they meet the marina criteria. If the size is alright, you will be prompted to provide how long you want the berth space for, in months. Based on your answer, the system will provide a price quote. You must accept or reject the price quote by typing Y for yes or N for no. You do not necessarily have to type the letter in capital, as the system was built to recognize them in lowercase too.
   - If you rejected the offer, an appropriate message will be displayed and then you can return to MENU by pressing any key.
   - If you accepted the offer, you will be prompted for more information about yourself and the boats, then the system will inform you that the boat has been recorded. You can return to the MENU by pressing any key.
 4. If you want to view the boat records in detail, you can type 3 in the menu screen to go in the Display All Records menu option. This section displays the marina available space and the boats recorded so far, in a table-like structure. You can return to the MENU by pressing any key.
